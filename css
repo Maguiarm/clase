@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+.circle {
+    width: 80px;
+    height: 250px;
+    border: 30px double #594cd8; 
+    background-color: #FFD440;
+    border-radius: 50%;
+}
+
+.circle:hover {
+    border-color:  #FFD440; 
+    background-color: #594cd8;
+}
+
+h1 {
+    font-size: 70px;
+    background-color: #FF9A00;
+    padding: 10px;
+    border-radius: 20px;
+    color: #2618b1;
+    position: absolute;
+    top: 60px;
+    left: 50px;
+}
